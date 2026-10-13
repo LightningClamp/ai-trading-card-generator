@@ -1,0 +1,1 @@
+"""Configuration layer: settings schema, defaults, TOML load/write."""
