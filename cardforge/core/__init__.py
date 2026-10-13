@@ -1,0 +1,1 @@
+"""Core engine: card model, pack registry, stat balancing, prompt chains."""
