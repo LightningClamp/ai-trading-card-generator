@@ -1,0 +1,1 @@
+"""Feature handlers: one per user-facing action in the desktop shell."""
