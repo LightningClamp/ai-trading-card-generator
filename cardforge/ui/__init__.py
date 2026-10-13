@@ -1,0 +1,1 @@
+"""Qt desktop shell — main window, card preview, prompt panel."""
